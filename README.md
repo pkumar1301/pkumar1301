@@ -1,16 +1,13 @@
-## Hi there 👋
+# Prashant Kumar
 
-<!--
-**pkumar1301/pkumar1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product leader and MIT Sloan Fellow (MBA, May 2027). I build applied AI and agentic products, and I build with AI myself.
 
-Here are some ideas to get you started:
+Most recently I was Head of Product at Oesia, where I ran the Digital Solutions P&L and built Oesia Knowledge Manager, an on-premises agentic platform that used a knowledge graph with Graph RAG. Before that I worked at Amazon across Marketplace, Retail and Amazon Business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What is here
+
+Prototypes I have built with AI coding tools during my time at Sloan: a game, an action tracker and a football screening tool. Each repository covers the problem it solves, the product decisions behind it and what I would build next.
+
+## What I work on
+
+Agentic products, retrieval grounding, AI platform product, pricing and monetization.
